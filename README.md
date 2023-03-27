@@ -1,4 +1,4 @@
-# PakReader
+# Future Tactics .pak exporter
 
 Exporter for Future Tactics .pak pack files.
 
